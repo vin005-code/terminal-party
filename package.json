@@ -1,0 +1,27 @@
+
+{
+  "name": "terminal-party",
+  "version": "1.0.0",
+  "description": "A vibrant terminal experience with rainbow colors, cute animals, animations and developer celebrations.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "demo": "node script.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "terminal",
+    "cli",
+    "rainbow",
+    "animals",
+    "animations",
+    "developer-tools"
+  ],
+  "author": "Vineesh",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
